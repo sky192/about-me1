@@ -1,6 +1,14 @@
 # about-me1
 
- answer-one
-Hi my name is samaheh
+ 
+Hi my name is samaheh, I'm learbibg Web development
+
+# profile
 https://github.com/sky192
- master
+
+# for Fun
+
+Hiking
+cycling
+
+ 
